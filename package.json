@@ -1,6 +1,6 @@
 {
   "name": "native-audio-deps",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "description": "Node LabSound native deps",
   "main": "index.js",
   "directories": {
